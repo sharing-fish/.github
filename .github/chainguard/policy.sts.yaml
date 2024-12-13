@@ -1,0 +1,8 @@
+issuer: https://token.actions.githubusercontent.com
+subject_pattern: 'repo:sharing-fish/fish-platform-deploy:*'
+
+permissions:
+  contents: read
+
+repositories:
+- fish-platform-library
