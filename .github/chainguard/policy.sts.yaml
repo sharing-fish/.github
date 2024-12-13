@@ -1,5 +1,5 @@
 issuer: https://token.actions.githubusercontent.com
-subject_pattern: 'repo:sharing-fish/fish-platform-deploy:*'
+subject_pattern: 'repo:sharing-fish/fish-platform-deploy:ref:refs/heads/main'
 
 permissions:
   contents: read
