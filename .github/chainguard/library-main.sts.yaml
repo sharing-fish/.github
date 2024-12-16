@@ -1,0 +1,10 @@
+issuer: https://token.actions.githubusercontent.com
+subject_pattern: 'repo:sharing-fish/fish-platform-library:ref:refs/heads/main'
+
+permissions:
+  contents: write
+  packages: write
+  metadata: read
+
+repositories:
+- fish-platform-library
