@@ -5,7 +5,7 @@ permissions:
   contents: write
   packages: write
   metadata: read
-  pull-requests: write
+  pull_requests: write
 
 repositories:
 - fish-platform-library
